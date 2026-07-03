@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+langchain-google-genai
+langchain-experimental
+python-multipart
